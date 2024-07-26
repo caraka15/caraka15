@@ -16,7 +16,7 @@
 <a href="https://twitter.com/crxanode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crxanode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/caraka15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caraka15" height="30" width="40" /></a>
 <a href="https://fb.com/caraka.jakmania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caraka.jakmania" height="30" width="40" /></a>
-<a href="https://instagram.com/caraka1928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caraka1928" height="30" width="40" /></a>
+<a href="https://instagram.com/caraka1928_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caraka1928" height="30" width="40" /></a>
 <a href="https://medium.com/@carakawidi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@carakawidi10" height="30" width="40" /></a>
 </p>
 
