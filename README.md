@@ -9,7 +9,9 @@
 
 - 📝 I regularly write articles on [https://crxanode.com/blogs](https://crxanode.com/blogs)
 
-- 📫 How to reach me **crxa@crxa.my.id**
+- 📫 How to reach me
+  email : **crxa@crxa.my.id**
+  telegram : [@caraka15](https://t.me/caraka15)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
