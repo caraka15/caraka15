@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/crxanode" target="blank"><img src="https://img.shields.io/twitter/follow/crxanode?logo=twitter&style=for-the-badge" alt="crxanode" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://crxanode.com](https://crxanode.com)
+- 👨‍💻 All of my projects are available at [https://crxanode.xyz](https://crxanode.xyz)
 
-- 📝 I regularly write articles on [https://crxanode.com/blogs](https://crxanode.com/blogs)
+- 📝 I regularly write articles on [https://crxanode.xyz/blogs](https://crxanode.xyz/blogs)
 
 - 📫 How to reach me
   email : **crxa@crxa.my.id**
