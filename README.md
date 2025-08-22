@@ -11,7 +11,7 @@
 
 - 📫 How to reach me
   email : **crxa@crxa.my.id**
-  telegram : [@caraka15](https://t.me/caraka15)
+  telegram : [@caraka17](https://t.me/caraka17)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
